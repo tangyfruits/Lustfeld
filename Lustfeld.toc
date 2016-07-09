@@ -1,6 +1,6 @@
 ## Interface: 60200
 ## Title: Lustfeld
 ## Notes: "Men don't care what's on TV. They only care what else is on TV."
-## Version: 0.1A
+## Version: 0.1B
 
 Lustfeld.lua
